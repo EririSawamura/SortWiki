@@ -12,7 +12,7 @@ Function design
 7. Report for administrator √
 8. Print & Save as PDF √
 
-Requirement:
+Requirement:    
 [1] Google Fonts. [Online]. Available: https://fonts.google.com/.   
 [2] Bootstrap. [Online]. Available: http://www.bootcss.com/.   
 [3] Highlight.js. [Online]. Available: https://highlightjs.org/.   
