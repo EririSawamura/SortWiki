@@ -14,6 +14,7 @@ Function design
 
 Requirement:
 [1] Google Fonts. [Online]. Available: https://fonts.google.com/.
+
 [2] Bootstrap. [Online]. Available: http://www.bootcss.com/.
 [3] Highlight.js. [Online]. Available: https://highlightjs.org/.
 [4] Charts Google Developers. [Online]. Available: https://developers.google.com/chart
