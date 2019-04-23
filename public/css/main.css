@@ -1,0 +1,103 @@
+div.nav{
+    width: 100px;
+    position: fixed;
+    top: 0;
+    _position:absolute;
+    z-index:9999;
+    font-size: 24px;
+    opacity: 100%;
+}
+
+#test_nav{
+    width: 100px;
+    top: 0;
+    _position:absolute;
+    z-index:9999;
+    font-size: 24px;
+    opacity: 100%;
+}
+
+section{
+    padding-top: 4rem;
+    padding-bottom: 7.5rem;
+}
+
+#clatable{
+    width: 1000px;
+    margin: 0;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#clatable1{
+    width: 1000px;
+    margin: 0;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#anitable{
+    width: 450px;
+    margin: 0;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#codetable{
+    width: 450px;
+    margin: 0;
+    text-align: center;
+    border: 2px solid black;
+    padding-bottom: 75px;
+    padding-top: 20px;
+}
+
+tr,td{
+    border: 2px solid black;
+}
+
+#sort_animation{
+    padding-top: 50px;
+    width: 600px;
+    height: 650px;
+}
+
+#cla, #cla1{
+    padding-bottom: 20px;
+}
+
+#ani{
+    padding-bottom: 3.5rem;
+}
+
+#sorting_example{
+    padding-bottom: 20px;
+}
+
+#exa1, #exa2, #exa3, #exa4, #exa5, #exa6{
+    padding-top: 50px;
+}
+
+#desc1, #desc2, #desc3, #desc4{
+    margin: 10px;
+    width: 800px;
+    text-align: left;
+    font-size: 20px;
+}
+
+#desc5{
+    font-size: 20px;
+    margin: 10px;
+    width: 600px;
+    text-align: left;
+}
+code{
+    width: 750px;
+    font-family: Consolas;
+    text-align: justify;
+}
+
+pre{
+    padding-bottom: 75px;
+    padding-top: 20px;
+}
