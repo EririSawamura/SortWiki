@@ -13,14 +13,14 @@ Function design
 8. Print & Save as PDF √
 
 Requirement:
-[1] Google Fonts. [Online]. Available: https://fonts.google.com/.
-[2] Bootstrap. [Online]. Available: http://www.bootcss.com/.
-[3] Highlight.js. [Online]. Available: https://highlightjs.org/.
-[4] Charts Google Developers. [Online]. Available: https://developers.google.com/chart
-[5] Composer Available: https://getcomposer.org/download/
-[6] Node.js Available: https://nodejs.org/en/download/
-[7] Laravel Available: composer global require laravel/installer
-[8] PHP >= 7.1.3 Available: https://www.php.net/downloads.php
+[1] Google Fonts. [Online]. Available: https://fonts.google.com/.   
+[2] Bootstrap. [Online]. Available: http://www.bootcss.com/.   
+[3] Highlight.js. [Online]. Available: https://highlightjs.org/.   
+[4] Charts Google Developers. [Online]. Available: https://developers.google.com/chart   
+[5] Composer Available: https://getcomposer.org/download/   
+[6] Node.js Available: https://nodejs.org/en/download/   
+[7] Laravel Available: composer global require laravel/installer   
+[8] PHP >= 7.1.3 Available: https://www.php.net/downloads.php   
 
 Setup guide:
 1.	Download and config Laravel
